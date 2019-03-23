@@ -1,0 +1,4 @@
+﻿  main.cpp
+i:\mygithub\datastructure\dsall\tree1\tree.h(87): warning C4715: “Tree::AddTree”: 不是所有的控件路径都返回值
+  Tree1.vcxproj -> I:\MyGitHub\DataStructure\DSALL\x64\Debug\Tree1.exe
+  Tree1.vcxproj -> I:\MyGitHub\DataStructure\DSALL\x64\Debug\Tree1.pdb (Full PDB)
