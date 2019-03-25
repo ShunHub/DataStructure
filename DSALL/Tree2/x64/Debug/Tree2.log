@@ -1,3 +1,4 @@
 ﻿  main.cpp
+main.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
   Tree2.vcxproj -> I:\MyGitHub\DataStructure\DSALL\x64\Debug\Tree2.exe
   Tree2.vcxproj -> I:\MyGitHub\DataStructure\DSALL\x64\Debug\Tree2.pdb (Full PDB)
